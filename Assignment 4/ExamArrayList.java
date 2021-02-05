@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 public class ExamArrayList implements ExamListInterface {
     
     private static final int INITIAL_CAPACITY = 2;
