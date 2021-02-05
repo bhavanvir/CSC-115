@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 public class StackArray<T> implements Stack<T> {
 	
 	private T[] data;
