@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 /*
  * represents an airline passenger
  *
