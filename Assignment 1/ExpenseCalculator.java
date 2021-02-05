@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954 2020-1-12
 import java.lang.Math;
 import java.util.Scanner;
 
