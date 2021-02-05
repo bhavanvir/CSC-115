@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 /*
  * Date class
  *  represents a date in the Gregorian calendar (used in most of the world).
