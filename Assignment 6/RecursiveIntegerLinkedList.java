@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 public class RecursiveIntegerLinkedList implements IntegerList {
     
     private IntegerNode    head;
