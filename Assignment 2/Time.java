@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 /*
  * Time class
  *  represents time on a 24 hour clock in hours and minutes
