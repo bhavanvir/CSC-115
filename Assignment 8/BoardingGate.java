@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 /*
  * represents a transit boarding gate (train, airplane, etc.)
  */
