@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 import java.util.*;
 import java.lang.Math.*;
 
